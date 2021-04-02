@@ -1,9 +1,4 @@
-# Change Log
+<a name="0.0.1"></a>
+## 0.0.1 (2021-04-02)
 
-All notable changes to the "modern-purple-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Created Modern Purple Theme

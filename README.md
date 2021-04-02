@@ -4,18 +4,15 @@ This extension for Visual Studio Code adds themes titled "Modern Purple Theme".
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
-
 **Modern Purple Theme**
+**HTML**
 ![HTML](images/HTML-Screenshot.png)
 
-**Modern Purple Theme**
+**JavaScript**
 ![JavaScript](images/JS-Screenshot.png)
 
-**Modern Purple Theme**
+**CSS**
 ![CSS](images/CSS-Screenshot.png)
-
-## Usage
-Select the theme and go!
 
 ## Installation
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
@@ -26,7 +23,6 @@ Select the theme and go!
 6. Optional: Use the recommended settings below for best experience
 
 ## Recommended Settings
-
 ```js
 {
         "editor.fontFamily": "Cascadia Code",
