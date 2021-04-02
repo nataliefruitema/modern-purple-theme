@@ -43,7 +43,7 @@
 		"list.errorForeground": "#ce838eb9",
 		"list.warningForeground": "#8bbcd3d2",
 		"diffEditor.removedTextBackground":"#ce838e8a",
-		"diffEditor.insertedTextBackground":"#9edba888",
+		"diffEditor.insertedTextBackground":"#29793573",
 		"gitDecoration.modifiedResourceForeground" : "#a9d882b9",
 		// "gitDecoration.conflictingResourceForeground": "#fd4b4b",
 
