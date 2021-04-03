@@ -5,16 +5,21 @@ This extension for Visual Studio Code adds themes titled "Modern Purple Theme".
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 **Modern Purple Theme**
-**HTML**
-![HTML](images/HTML-Screenshot.png)
 
-**JavaScript**
-![JavaScript](images/JS-Screenshot.png)
+**Overview**
+
+![Overview](images/Overview_example.png)
+
+**HTML**
+
+![HTML](images/HTML_example.png)
 
 **CSS**
-![CSS](images/CSS-Screenshot.png)
+
+![CSS](images/CSS_example.png)
 
 ## Installation
+
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
 2. Search for `Modern Purple Theme`
 3. Click **Install**
@@ -23,19 +28,20 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 6. Optional: Use the recommended settings below for best experience
 
 ## Recommended Settings
-```js
+
+```json
 {
-        "editor.fontFamily": "Cascadia Code",
-        "editor.fontSize": 13,
-        "editor.fontLigatures": true,
-        "editor.lineHeight": 22,
-        "editor.letterSpacing": 0.7,
-        "files.trimTrailingWhitespace": true,
-        "editor.renderWhitespace": "trailing",
-        "editor.fontWeight": "450",
-        "editor.cursorStyle": "line",
-        "editor.cursorWidth": 2,
-        "editor.cursorBlinking": "smooth",
-        "explorer.compactFolders": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.fontWeight": "450",
+  "editor.letterSpacing": 0.7,
+  "editor.lineHeight": 22,
+  "editor.renderWhitespace": "trailing",
+  "explorer.compactFolders": false,
+  "files.trimTrailingWhitespace": true
 }
 ```

@@ -1,32 +1,32 @@
 {
-    "name": "modern-purple-theme",
-    "displayName": "Modern Purple Theme",
-    "description": "A modern theme with shades of purple color",
-    "publisher": "nataliefruitema",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "icon": "images/modern-purple-theme-icon.png",
-    "author": {
-		"email": "natalie.fruitema@gmail.com",
-		"name": "Natalie Fruitema"
-	},
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-		"type": "git",
-		"url": "https://github.com/nataliefruitema/modern-purple-theme.git"
-	},
-    "homepage": "https://github.com/nataliefruitema/modern-purple-theme",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Modern Purple Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Modern Purple Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "modern-purple-theme",
+  "displayName": "Modern Purple Theme",
+  "description": "A modern theme with shades of purple color",
+  "publisher": "nataliefruitema",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "icon": "images/modern-purple-theme-icon.png",
+  "author": {
+    "email": "natalie.fruitema@gmail.com",
+    "name": "Natalie Fruitema"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nataliefruitema/modern-purple-theme.git"
+  },
+  "homepage": "https://github.com/nataliefruitema/modern-purple-theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern Purple Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modern Purple Theme-color-theme.json"
+      }
+    ]
+  }
 }
