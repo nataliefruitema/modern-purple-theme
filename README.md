@@ -1,22 +1,21 @@
 # Modern Purple Theme
 
-This extension for Visual Studio Code adds themes titled "Modern Purple Theme".
+This extension for Visual Studio Code adds the theme titled "Modern Purple Theme".
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 **Modern Purple Theme**
 
 **Overview**
-
-![Overview](images/Overview_example.png)
+<img src="images/Overview_example.png">
 
 **HTML**
 
-![HTML](images/HTML_example.png)
+<img src="images/HTML_example.png">
 
 **CSS**
 
-![CSS](images/CSS_example.png)
+<img src="images/HTML_example.png">
 
 ## Installation
 
