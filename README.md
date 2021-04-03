@@ -7,15 +7,16 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 **Modern Purple Theme**
 
 **Overview**
-<img src="images/Overview_example.png">
+
+<img src="images/Overview_example.png" width="600" height="300">
 
 **HTML**
 
-<img src="images/HTML_example.png">
+<img src="images/HTML_example.png" width="250" height="400">
 
 **CSS**
 
-<img src="images/HTML_example.png">
+<img src="images/HTML_example.png" width="250" height="400">
 
 ## Installation
 
