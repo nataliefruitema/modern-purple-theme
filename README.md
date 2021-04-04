@@ -12,11 +12,11 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 **Overview**
 
-![Overview](images/Overview_example.png)
+![Overview](https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/Overview_example.png?token=AHYIVO46I2BEXGL4MT2S5J3ANGHT4)
 
 **HTML**
 
-![Overview](images/HTML_example.png)
+![HTML](https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example.png?token=AHYIVOY7MFO7O3JJW6NP4RDANGHY6)
 
 ## Installation
 
