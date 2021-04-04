@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.55.0"
   },
-  "icon": "icon/modern-purple-theme-icon.png",
+  "icon": "images/modern-purple-theme-icon.png",
   "author": {
     "email": "natalie.fruitema@gmail.com",
     "name": "Natalie Fruitema"
