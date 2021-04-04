@@ -1,7 +1,4 @@
 # Modern Purple Theme
-<p align="center">
-  <img alt="icon" width="20%" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/modern-purple-theme-icon.png">
-</p>
 
 This extension for [Visual Studio Code](http://code.visualstudio.com) adds the theme titled "Modern Purple Theme".
 
@@ -15,19 +12,12 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 **Overview**
 
-![Overview](https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/Overview_example.png)
+![Overview](images/Overview_example.png)
 
 **HTML**
 
-![HMTL](https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/HTML_example.png)
+![Overview](images/HTML_example.png)
 
-<p align="center">
-  <img alt="overview-screenshot" width="80%" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/Overview_example.png">
-</p>
-
-<p align="center">
-  <img alt="html-screenshot" width="80%" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/HTML_example.png">
-</p>
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
