@@ -1,6 +1,13 @@
 # Modern Purple Theme
+<p align="center">
+  <img alt="icon" width="20%" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/modern-purple-theme-icon.png">
+</p>
 
-This extension for Visual Studio Code adds the theme titled "Modern Purple Theme".
+This extension for [Visual Studio Code](http://code.visualstudio.com) adds the theme titled "Modern Purple Theme".
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/nataliefruitema.modern-purple-theme.svg)](https://marketplace.visualstudio.com/items?itemName=nataliefruitema.modern-purple-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/nataliefruitema.modern-purple-theme.svg)](https://marketplace.visualstudio.com/items?itemName=nataliefruitema.modern-purple-theme)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/nataliefruitema.modern-purple-theme.svg)](https://marketplace.visualstudio.com/items?itemName=nataliefruitema.modern-purple-theme)
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
@@ -8,16 +15,19 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 **Overview**
 
-<img src="images/Overview_example.jpg" width="600" height="300">
+![Overview](https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/Overview_example.png)
 
 **HTML**
 
-<img src="images/HTML_example.jpg" width="250" height="400">
+![HMTL](https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/HTML_example.png)
 
-**CSS**
+<p align="center">
+  <img alt="overview-screenshot" width="80%" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/Overview_example.png">
+</p>
 
-<img src="images/HTML_example.jpg" width="250" height="400">
-
+<p align="center">
+  <img alt="html-screenshot" width="80%" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/HTML_example.png">
+</p>
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
