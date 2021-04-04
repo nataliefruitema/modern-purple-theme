@@ -8,11 +8,12 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 **Overview**
 
-<img alt="overview" src="./images/Overview_example.png" width="600px"/>
+<img alt="overview" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/Overview_example.png" width="600px"/>
+
 
 **HTML**
 
-<img alt="html" src="./images/HTML_example.png" width="600px"/>
+<img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example.png" width="600px"/>
 
 
 ## Installation
