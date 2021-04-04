@@ -23,9 +23,8 @@
 ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nataliefruitema/modern-purple-theme.git"
+    "url": "https://github.com/nataliefruitema/modern-purple-theme"
   },
-  "homepage": "https://github.com/nataliefruitema/modern-purple-theme",
   "contributes": {
     "themes": [
       {

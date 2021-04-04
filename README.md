@@ -1,6 +1,4 @@
-# Modern Purple Theme
-
-This extension for [Visual Studio Code](http://code.visualstudio.com) adds the theme titled "Modern Purple Theme".
+# Modern Purple Theme for [Visual Studio Code](http://code.visualstudio.com)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/nataliefruitema.modern-purple-theme.svg)](https://marketplace.visualstudio.com/items?itemName=nataliefruitema.modern-purple-theme)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/nataliefruitema.modern-purple-theme.svg)](https://marketplace.visualstudio.com/items?itemName=nataliefruitema.modern-purple-theme)
@@ -8,15 +6,14 @@ This extension for [Visual Studio Code](http://code.visualstudio.com) adds the t
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
-**Modern Purple Theme**
-
 **Overview**
 
-![Overview](https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/Overview_example.png?token=AHYIVO46I2BEXGL4MT2S5J3ANGHT4)
+<img alt="overview" src="./images/Overview_example.png" width="600px"/>
 
 **HTML**
 
-![HTML](https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example.png?token=AHYIVOY7MFO7O3JJW6NP4RDANGHY6)
+<img alt="html" src="./images/HTML_example.png" width="600px"/>
+
 
 ## Installation
 
