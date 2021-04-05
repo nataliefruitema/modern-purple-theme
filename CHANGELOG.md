@@ -1,3 +1,8 @@
+<a name="0.0.3"></a>
+## 0.0.3 (2021-04-04)
+
+- Fixed the images in the README file
+
 <a name="0.0.2"></a>
 ## 0.0.2 (2021-04-03)
 
