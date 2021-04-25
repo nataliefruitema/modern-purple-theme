@@ -3,7 +3,7 @@
   "displayName": "Modern Purple Theme",
   "description": "A modern theme with shades of purple color",
   "publisher": "nataliefruitema",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.55.0"
   },
@@ -19,23 +19,28 @@
     "theme",
     "purple",
     "modern",
-    "dark"
+    "dark",
+    "light",
+    "white"
 ],
   "repository": {
     "type": "git",
     "url": "https://github.com/nataliefruitema/modern-purple-theme"
   },
+  "galleryBanner": {
+    "color": "#381079"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Modern Purple Theme",
+        "label": "Modern Purple Theme Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Modern Purple Theme-color-theme.json"
+        "path": "./themes/Modern Purple Theme Dark-color-theme.json"
       },
       {
-        "label": "Modern White Theme",
+        "label": "Modern Purple Theme Light",
         "uiTheme": "vs",
-        "path": "./themes/Modern White Theme-color-theme.json"
+        "path": "./themes/Modern Purple Theme Light-color-theme.json"
       }
     ]
   }

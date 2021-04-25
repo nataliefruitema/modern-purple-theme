@@ -1,3 +1,8 @@
+<a name="0.0.4"></a>
+## 0.0.4 (2021-04-25)
+
+- Created Modern Purple Theme Light
+
 <a name="0.0.3"></a>
 ## 0.0.3 (2021-04-04)
 
