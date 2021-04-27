@@ -8,15 +8,18 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 **Overview**
 
-<img alt="overview" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/Overview_example_Dark.png" width="600px"/>
-<img alt="overview" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/Overview_example_Light.png" width="600px"/>
-
+<img alt="overview" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/Overview_example_Dark.png" width="550px" height="300"/><img alt="overview" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/Overview_example_Light.png" width="550px" height="300"/>
 
 
 **HTML**
 
-<img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example_Dark.png" width="600px"/>
-<img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example_Light.png" width="600px"/>
+<img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example_Dark.png" width="350px" height="550" height="700"/><img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example_Light.png" width="350px" height="550"/>
+
+
+**CSS**
+
+<img alt="css" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/CSS_example_Dark.png" width="350px" height="550" height="700"/><img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/CSS_example_Light.png" width="350px" height="550"/>
+
 
 ## Installation
 

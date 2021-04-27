@@ -15,7 +15,7 @@
     "editor.findMatchBackground": "#8087e4bb",
     "editor.findMatchHighlightBackground": "#cbc8d3d5",
     "editor.foreground": "#9a85ee",
-    "editorBracketMatch.border": "#f7c05a",
+    "editorBracketMatch.border": "#ffa600",
     "editorGroupHeader.tabsBackground": "#fffffff6",
     "gitDecoration.modifiedResourceForeground": "#88b762",
     "icon.foreground": "#d19af7",
@@ -111,7 +111,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#f7c05a"
+        "foreground": "#ffa600"
       }
     },
     {
@@ -248,14 +248,14 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f7c05a"
+        "foreground": "#ffa600"
       }
     },
     {
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#f7c05a"
+        "foreground": "#ffa600"
       }
     },
     {

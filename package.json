@@ -3,7 +3,7 @@
   "displayName": "Modern Purple Theme",
   "description": "A modern theme with shades of purple color",
   "publisher": "nataliefruitema",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.55.0"
   },
@@ -28,7 +28,8 @@
     "url": "https://github.com/nataliefruitema/modern-purple-theme"
   },
   "galleryBanner": {
-    "color": "#381079"
+    "color": "#381079",
+    "theme": "dark"
   },
   "contributes": {
     "themes": [
