@@ -13,12 +13,12 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 **HTML**
 
-<img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example_Dark.png" width="350px" height="550" height="700"/><img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example_Light.png" width="350px" height="550"/>
+<img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example_Dark.png" width="350px" height="550"/><img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/HTML_example_Light.png" width="350px" height="550"/>
 
 
 **CSS**
 
-<img alt="css" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/CSS_example_Dark.png" width="350px" height="550" height="700"/><img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/CSS_example_Light.png" width="350px" height="550"/>
+<img alt="css" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/CSS_example_Dark.png" width="350px" height="650"/><img alt="html" src="https://raw.githubusercontent.com/nataliefruitema/modern-purple-theme/master/images/CSS_example_Light.png" width="350px" height="650"/>
 
 
 ## Installation
