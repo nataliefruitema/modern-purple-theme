@@ -1,3 +1,8 @@
+<a name="0.0.6"></a>
+## 0.0.6 (2022-05-06)
+
+- Updated color for inactive title bar
+
 <a name="0.0.5"></a>
 ## 0.0.5 (2021-04-27)
 

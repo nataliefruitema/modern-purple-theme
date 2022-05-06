@@ -51,8 +51,8 @@
     "titleBar.activeBackground": "#0d0225fa",
     "titleBar.activeForeground": "#ffffff",
     "titleBar.border": "#0d0225fa",
-    "titleBar.inactiveBackground": "#e2e2e2af",
-    "titleBar.inactiveForeground": "#100135"
+    "titleBar.inactiveBackground": "#37304bf6",
+    "titleBar.inactiveForeground": "#ffffff"
   },
 
   "tokenColors": [

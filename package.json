@@ -3,7 +3,7 @@
   "displayName": "Modern Purple Theme",
   "description": "A modern theme with shades of purple color",
   "publisher": "nataliefruitema",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.55.0"
   },
